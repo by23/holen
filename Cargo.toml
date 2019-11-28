@@ -1,0 +1,7 @@
+[workspace]
+members = [
+	"holen",
+	"holen-http1",
+	"holen-http2",
+	"holen-http3",
+]

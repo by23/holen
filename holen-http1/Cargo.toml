@@ -1,0 +1,20 @@
+[package]
+name = "holen-http1"
+version = "0.1.0"
+documentation = "https://docs.rs/holen-http1/0.1.0"
+description = """
+Holen is an Async Web Server written in Rust.
+"""
+authors = ["by23 <opensource@by23.org>"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+homepage = "https://github.com/by23/holen"
+repository = "https://github.com/by23/holen"
+keywords = ["async", "http", "web"]
+categories = ["network-programming"]
+edition = "2018"
+exclude = ["CHANGELOG.md"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
